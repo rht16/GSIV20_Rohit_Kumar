@@ -17,10 +17,7 @@ const Series = () => {
     const { data } = await axios.get(
       `https://api.themoviedb.org/3/discover/tv?api_key=2008d5bb63cea2a68fba1a5e75c0a02c&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL}`
     );
-    console.log(data.results);
-    setContent(data.results);
-    setNumOfPages(data.total_pages);
-     
+  
   };
 
   useEffect(() => {
