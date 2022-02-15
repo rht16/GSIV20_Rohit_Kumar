@@ -26,6 +26,12 @@ Here you can view all the shows and movies. In order to get more information on 
  - Material UI
 
 
+ ## Challenges faced
+ Getting api and api key
+ 
+ In challenge i had to show director name, duration of movie but i didn't got that details in this api, so I haven't showed those details, but I have did some extra work here like for web series, pagination, catagories wise filtering. I hope you will like it.
+
+
  ## Sharing a few glimpse
  Landing page
  
