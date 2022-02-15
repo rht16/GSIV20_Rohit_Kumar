@@ -33,11 +33,9 @@ Here you can view all the shows and movies. In order to get more information on 
 
 
  ## Sharing a few glimpse
- Landing page
+
  
- ![ChalChitra - Google Chrome 10-02-2022 19_17_13](https://user-images.githubusercontent.com/87421802/153420760-68e3229d-a732-4a6a-9050-2fd0960fe2e4.png)
- 
- Movie catagories
+Landing page
  
  ![ChalChitra - Google Chrome 10-02-2022 19_18_18](https://user-images.githubusercontent.com/87421802/153420864-af73e968-4855-4688-89c0-e27eb940bd7c.png)
  
