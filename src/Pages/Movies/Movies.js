@@ -17,7 +17,7 @@ const Movies = () => {
   const fetchMovies = async () => {
     const { data } = await axios.get(
       
-      `https://api.themoviedb.org/3/discover/movie?api_key=2008d5bb63cea2a68fba1a5e75c0a02c&language=en-US&sort_by=release_date.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL}&with_watch_monetization_types=flatrate`
+     
     );
     setContent(data.results);
     console.log(data.results);
